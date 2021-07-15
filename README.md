@@ -7,6 +7,15 @@
 구글 독스에 첨부해주신 스프링 강의 [동영상](https://www.youtube.com/watch?v=-oeeqfRVrzI&list=PLumVmq_uRGHgBrimIp2-7MCnoPUskVMnd) 참고하여 학습예정
 입니다.
 
+### 학습내용
+
+* MVC, API
+* 회원 관리 - 회원 Domain, Repository 생성
+* 회원 관리 테스트 케이스 작성
+* 회원 서비스
+* 회원 서비스 테스트
+
+
 #### 목표 상세 기능
 
 * 게시글 작성 ⭐
