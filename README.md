@@ -32,6 +32,7 @@
   * OpenJDK 11
   * springboot 2.5.2
   * GITBASH
+  * h2 DB 설치
 
 
 
