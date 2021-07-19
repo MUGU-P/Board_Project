@@ -14,6 +14,10 @@
 * 회원 관리 테스트 케이스 작성
 * 회원 서비스
 * 회원 서비스 테스트
+* jpa, jdbc
+* 스프링 통합 테스트
+* 스프링 데이터 jpa
+* AOP(Aspect Oriented Programming)
 
 
 #### 목표 상세 기능
